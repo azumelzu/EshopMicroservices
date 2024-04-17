@@ -1,0 +1,3 @@
+﻿### Send GET request with query string
+GET https://localhost:5050/products?nameStartsWith=str
+Content-Type: application/json

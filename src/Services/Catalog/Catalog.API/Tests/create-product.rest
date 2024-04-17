@@ -1,0 +1,27 @@
+﻿### Send POST request with json body
+POST https://localhost:5050/products
+Content-Type: application/json
+
+{
+  "name": "string",
+  "category": [
+    "string"
+  ],
+  "description": "string",
+  "imageFile": "string",
+  "price": 0
+}
+
+### Send POST request with json body
+POST https://localhost:5050/products
+Content-Type: application/json
+
+{
+  "name": "string",
+  "category": [
+    "string"
+  ],
+  "description": "string",
+  "imageFile": "string",
+  "price": 0
+}
